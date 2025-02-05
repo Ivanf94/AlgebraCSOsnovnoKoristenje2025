@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Varijable_uvod", "Varijable_uvod\Varijable_uvod.csproj", "{704976D4-8411-443A-857A-12170222266E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Varijable_brojevi", "Varijable_brojevi\Varijable_brojevi.csproj", "{06D0AF36-B595-4547-B88E-AF1C6179D23F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{704976D4-8411-443A-857A-12170222266E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{704976D4-8411-443A-857A-12170222266E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{704976D4-8411-443A-857A-12170222266E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{704976D4-8411-443A-857A-12170222266E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06D0AF36-B595-4547-B88E-AF1C6179D23F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06D0AF36-B595-4547-B88E-AF1C6179D23F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06D0AF36-B595-4547-B88E-AF1C6179D23F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06D0AF36-B595-4547-B88E-AF1C6179D23F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B2988C1-1F9D-4637-B29E-4F44872A737A}
+	EndGlobalSection
+EndGlobal
