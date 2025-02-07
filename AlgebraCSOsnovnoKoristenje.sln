@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Varijable_uvod", "Varijable
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Varijable_brojevi", "Varijable_brojevi\Varijable_brojevi.csproj", "{06D0AF36-B595-4547-B88E-AF1C6179D23F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numericki_tipovi", "Numericki_tipovi\Numericki_tipovi.csproj", "{462E2889-0F04-426D-AC5B-A3921AB1A12C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{06D0AF36-B595-4547-B88E-AF1C6179D23F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06D0AF36-B595-4547-B88E-AF1C6179D23F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06D0AF36-B595-4547-B88E-AF1C6179D23F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{462E2889-0F04-426D-AC5B-A3921AB1A12C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{462E2889-0F04-426D-AC5B-A3921AB1A12C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{462E2889-0F04-426D-AC5B-A3921AB1A12C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{462E2889-0F04-426D-AC5B-A3921AB1A12C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

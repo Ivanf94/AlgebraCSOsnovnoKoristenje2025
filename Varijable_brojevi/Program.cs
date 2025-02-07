@@ -19,8 +19,6 @@ namespace Varijable_brojevi
 
             ushort broj22 = 123;
             Console.WriteLine($"{broj22}  {ushort.MinValue}  {ushort.MaxValue}");
-
-            //TODO: nastaviti s prikazom brojčanih podatkovnih tipova!
         }
     }
 }
